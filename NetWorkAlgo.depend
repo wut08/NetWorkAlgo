@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1585018327 source:c:\users\tong\desktop\c++codes\networkalgo\stringproduction.cpp
+	"StringProduction.h"
+	"Dictionary.h"
+	<map>
+	<set>
+	<algorithm>
+	<iostream>
+
+1584591023 c:\users\tong\desktop\c++codes\networkalgo\stringproduction.h
+	<vector>
+	<string>
+
+1584674487 c:\users\tong\desktop\c++codes\networkalgo\dictionary.h
+	<string>
+	<vector>
+	<map>
+
+1584674803 source:c:\users\tong\desktop\c++codes\networkalgo\dictionary.cpp
+	"Dictionary.h"
+	<iostream>
+	<vector>
+	<map>
+	<set>
+	<queue>
+
+1585018702 source:c:\users\tong\desktop\c++codes\networkalgo\main.cpp
+	"StringProduction.h"
+	"Dictionary.h"
+	<iostream>
+	<vector>
+	<map>
+	<queue>
+	<set>
+	<algorithm>
+
